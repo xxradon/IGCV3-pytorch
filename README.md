@@ -5,18 +5,19 @@ arXiv preprint [arXIV:1806.00178](https://arxiv.org/pdf/1806.00178.pdf) (2017)
 
 This implementation was made to be an example of a common deep learning software architecture. It's simple and designed to be very modular. All of the components needed for training and visualization are added.
 
+# Only tested on  Cifar10 and Cifar100!!!!
 
 ## Usage
-This project uses Python 3.5.3 and PyTorch 0.3.
+This project uses Python 3 and PyTorch 0.3.1
 
 ### Main Dependencies
  ```
- pytorch 0.3
- numpy 1.13.1
- tqdm 4.15.0
- easydict 1.7
- matplotlib 2.0.2
- tensorboardX 1.0
+ pytorch 0.3.1
+ numpy 
+ tqdm 
+ easydict
+ matplotlib 
+ tensorboardX 
  ```
 
 Install dependencies:
